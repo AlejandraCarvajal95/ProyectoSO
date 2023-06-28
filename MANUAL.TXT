@@ -1,8 +1,0 @@
-Para poner en funcionamiento el simulador de Ciclo básico de instrucción es necesario copiar y pegar en la consola el texto del archivo de entrada y presionar enter. 
-
-Aquí se pueden evidenciar las salidas esperadas para cada entrada.
-Para "ENTRADA1" la salida debe ser 88
-Para "ENTRADA2" la salida debe ser 14
-Para "ENTRADA3" la salida debe ser 670
-Para "ENTRADAPRUEBA1" la salida debe ser 116
-Para "ENTRADAPRUEBA2" la salida debe ser false
